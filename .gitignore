@@ -1,6 +1,5 @@
 /node_modules
 /vendor
-/www
 *.iml
 .idea
 .idea/
