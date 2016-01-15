@@ -1,0 +1,14 @@
+/node_modules
+/vendor
+/www
+*.iml
+.idea
+.idea/
+.DS_Store
+/.sass-cache
+/nbproject
+/npm-debug.log
+/www-bin/
+.tmp/
+git.credentials.json
+/platforms/android/platform_www
