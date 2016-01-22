@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "mk.ukim.finki.awd.finkiask"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "mk.ukim.finki.awd.finkiask"
         }
     },
     "dependent_plugins": {}
